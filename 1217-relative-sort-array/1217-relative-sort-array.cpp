@@ -1,26 +1,25 @@
 class Solution {
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-        unordered_map<int, int> mpp;
-        vector<int> remaining, result;
+        int max = *max_element(arr1.begin(), arr1.end());
+        vector<int> count(max+1);
+        
+        for(int i: arr1) count[i]++;
 
-        for(int i=0; i<arr2.size(); i++) mpp[arr2[i]] = 0;
+        vector<int> ans;
 
-        for(int i=0; i<arr1.size(); i++){
-            if(mpp.find(arr1[i]) != mpp.end()) mpp[arr1[i]]++;
-            else remaining.push_back(arr1[i]);
-        }
-
-        sort(remaining.begin(), remaining.end());
-
-        for(int i=0; i< arr2.size(); i++){
-            for(int j=0; j<mpp[arr2[i]]; j++){
-                result.push_back(arr2[i]);
+        for(int i: arr2){
+            while(count[i] > 0){
+                ans.push_back(i);
+                count[i]--;
             }
         }
-
-        for(int i=0; i< remaining.size(); i++) result.push_back(remaining[i]);
-
-        return result;
+        for(int i=0; i<=max; i++){
+            while(count[i] > 0){
+                ans.push_back(i);
+                count[i]--;
+            }
+        }
+        return ans;
     }
 };
