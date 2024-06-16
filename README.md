@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Navoren/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Navoren/LeetCode_Solutions/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0648-replace-words) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Navoren/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0189-rotate-array) |
 # Linked List
 |  |
 | ------- |
@@ -76,3 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Navoren/LeetCode_Solutions/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0189-rotate-array) |
