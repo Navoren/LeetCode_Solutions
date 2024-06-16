@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Navoren/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Navoren/LeetCode_Solutions/tree/master/0502-ipo) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Navoren/LeetCode_Solutions/tree/master/0075-sort-colors) |
 # Linked List
