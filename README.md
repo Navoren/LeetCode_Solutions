@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Navoren/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 # Linked List
 |  |
 | ------- |
@@ -82,3 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
