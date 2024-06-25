@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Navoren/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Navoren/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Navoren/LeetCode_Solutions/tree/master/0502-ipo) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
