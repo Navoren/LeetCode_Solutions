@@ -173,3 +173,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Navoren/LeetCode_Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Navoren/LeetCode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
