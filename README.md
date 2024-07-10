@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Navoren/LeetCode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,4 +292,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Navoren/LeetCode_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Navoren/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
