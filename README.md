@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0907-koko-eating-bananas](https://github.com/Navoren/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navoren/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Navoren/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Navoren/LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Sliding Window
