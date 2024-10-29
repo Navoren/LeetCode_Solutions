@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Navoren/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -400,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Navoren/LeetCode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
