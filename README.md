@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0503-next-greater-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Navoren/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3195-separate-black-and-white-balls](https://github.com/Navoren/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -410,5 +413,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
