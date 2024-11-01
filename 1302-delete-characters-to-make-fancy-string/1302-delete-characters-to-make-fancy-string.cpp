@@ -1,23 +1,20 @@
 class Solution {
 public:
     string makeFancyString(string s) {
+        string ans = "";
         int n = s.size();
-        stack<pair<char,int>> st;
-        for(int i = 0; i<n; i++){
-            if(st.empty()){ 
-                st.push({s[i],1});
-                continue;
+        int cnt = 1;
+        ans.push_back(s[0]);
+        for(int i=1;i<n;i++){
+            if(s[i] == ans.back()){
+                cnt++;
+                if(cnt < 3)ans.push_back(s[i]);
             }
-            if(s[i] == st.top().first && st.top().second == 2) continue;
-            if(s[i] == st.top().first && st.top().second == 1) st.push({s[i], 2});
-            if(s[i] != st.top().first) st.push({s[i], 1});
+            else{
+                cnt = 1;
+                ans.push_back(s[i]);
+            }
         }
-        string ans;
-        while(!st.empty()){
-            ans  += st.top().first;
-            st.pop();
-        }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
