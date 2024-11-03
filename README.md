@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Navoren/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -443,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
