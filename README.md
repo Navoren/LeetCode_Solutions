@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Navoren/LeetCode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
+| [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 ## Tree
 |  |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
