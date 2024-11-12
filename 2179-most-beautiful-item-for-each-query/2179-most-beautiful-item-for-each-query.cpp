@@ -1,8 +1,3 @@
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     bool isPossible(const vector<vector<int>>& items, int idx, int priceLimit) {
