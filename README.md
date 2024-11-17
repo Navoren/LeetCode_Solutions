@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navoren/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
+| [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
