@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Navoren/LeetCode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Navoren/LeetCode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Navoren/LeetCode_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -578,4 +580,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
