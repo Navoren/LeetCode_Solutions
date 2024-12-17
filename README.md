@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Navoren/LeetCode_Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navoren/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navoren/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navoren/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2716-prime-subtraction-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Navoren/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -488,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -588,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navoren/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navoren/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
