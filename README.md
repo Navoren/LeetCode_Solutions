@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Navoren/LeetCode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
+| [1876-map-of-highest-peak](https://github.com/Navoren/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Navoren/LeetCode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navoren/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Navoren/LeetCode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Navoren/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navoren/LeetCode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/Navoren/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
