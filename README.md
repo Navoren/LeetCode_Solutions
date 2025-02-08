@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navoren/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -656,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Navoren/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Navoren/LeetCode_Solutions/tree/master/0937-online-stock-span) |
+| [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Navoren/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navoren/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
@@ -753,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
