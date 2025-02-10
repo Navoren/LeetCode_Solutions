@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navoren/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Navoren/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Navoren/LeetCode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
