@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navoren/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -716,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navoren/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
