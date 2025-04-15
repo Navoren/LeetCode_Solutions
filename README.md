@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Navoren/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Navoren/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Navoren/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Navoren/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Navoren/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Navoren/LeetCode_Solutions/tree/master/0207-course-schedule) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Navoren/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Navoren/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
