@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -875,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Navoren/LeetCode_Solutions/tree/master/3394-minimum-array-end) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -940,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Merge Sort
 |  |
 | ------- |
