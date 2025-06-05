@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Navoren/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Navoren/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Navoren/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Navoren/LeetCode_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
