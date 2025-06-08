@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Navoren/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Navoren/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navoren/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Navoren/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
