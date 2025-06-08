@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0816-design-hashset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+| [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Navoren/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navoren/LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navoren/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navoren/LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navoren/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Navoren/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Navoren/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -778,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
