@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/Navoren/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/Navoren/LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
