@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Navoren/LeetCode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
