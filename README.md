@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Navoren/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Navoren/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Navoren/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Navoren/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Navoren/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
