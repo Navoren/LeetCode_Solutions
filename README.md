@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Navoren/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navoren/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -832,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Navoren/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Navoren/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Navoren/LeetCode_Solutions/tree/master/0200-number-of-islands) |
@@ -911,6 +913,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Navoren/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
