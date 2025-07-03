@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/Navoren/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Navoren/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Navoren/LeetCode_Solutions/tree/master/0127-word-ladder) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Navoren/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navoren/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Navoren/LeetCode_Solutions/tree/master/0155-min-stack) |
