@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -900,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Navoren/LeetCode_Solutions/tree/master/0937-online-stock-span) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
