@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navoren/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navoren/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navoren/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2689-rearranging-fruits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -690,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/Navoren/LeetCode_Solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Navoren/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
