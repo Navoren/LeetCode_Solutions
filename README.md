@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -799,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -893,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navoren/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3643-zero-array-transformation-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Tree
 |  |
