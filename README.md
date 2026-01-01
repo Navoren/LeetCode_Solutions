@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navoren/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -784,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Navoren/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
