@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
