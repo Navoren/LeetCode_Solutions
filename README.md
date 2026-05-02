@@ -809,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Navoren/LeetCode_Solutions/tree/master/0441-arranging-coins) |
+| [0788-rotated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1049,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0788-rotated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Navoren/LeetCode_Solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navoren/LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
