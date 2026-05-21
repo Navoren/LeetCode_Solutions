@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
@@ -627,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1245,4 +1247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Navoren/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
