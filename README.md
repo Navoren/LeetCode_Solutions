@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Navoren/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navoren/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Navoren/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/0744-network-delay-time) |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navoren/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Navoren/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/0744-network-delay-time) |
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Navoren/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
@@ -1251,6 +1255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Navoren/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
