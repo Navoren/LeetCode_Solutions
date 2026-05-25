@@ -2,32 +2,37 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        for(auto it : prerequisites){
-            adj[it[1]].push_back(it[0]);
-        }
+        vector<int> indegree(numCourses, 0);
 
-        vector<int> inDegree(numCourses, 0);
-        for(int i = 0; i< numCourses; i++){
-            for(auto it: adj[i]){
-                inDegree[it]++;
+        for(auto &it : prerequisites){
+            int u = it[0];
+            int v = it[1];
+            adj[u].push_back(v);
+        }
+        for(int i=0; i<numCourses; i++){
+            for(auto it : adj[i]){
+                indegree[it]++;
             }
         }
         queue<int> q;
-        for(int i = 0; i< numCourses; i++){
-            if(inDegree[i] == 0) q.push(i);
+        for(int i=0; i<numCourses; i++){
+            if(indegree[i] == 0){
+                q.push(i);
+            }
         }
-        
-        vector<int> topo;
+        vector<int> schedule;
         while(!q.empty()){
             int node = q.front();
             q.pop();
-            topo.push_back(node);
+            schedule.push_back(node);
 
             for(auto it : adj[node]){
-                inDegree[it]--;
-                if(inDegree[it] == 0) q.push(it);
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
             }
         }
-        return topo.size() == numCourses;
+
+        if(schedule.size() == numCourses) return true;
+        else return false;
     }
 };
