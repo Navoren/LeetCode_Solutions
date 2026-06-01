@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -770,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
