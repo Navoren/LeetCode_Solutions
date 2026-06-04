@@ -868,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navoren/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
@@ -1106,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Navoren/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1249,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Merge Sort
 |  |
