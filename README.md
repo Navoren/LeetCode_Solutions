@@ -876,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3623-count-number-of-trapezoids-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navoren/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Navoren/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String Matching
 |  |
 | ------- |
