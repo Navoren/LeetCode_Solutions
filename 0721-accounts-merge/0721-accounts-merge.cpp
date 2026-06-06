@@ -1,55 +1,52 @@
 class DisjointSet{
-  public:
-  vector<int> rank, parent, size;
-  DisjointSet(int n){
-      rank.resize(n+1, 0);
-      parent.resize(n+1);
-      for(int i = 0; i<=n; i++){
-          parent[i] = i;
-      }
-  }
-  
-  int findUPar(int node){
-      if(node == parent[node]) return node;
-      return parent[node] = findUPar(parent[node]);
-  }
-  
-  void unionByRank(int u, int v){
-      int ulp_u = findUPar(u);
-      int ulp_v = findUPar(v);
-      if(ulp_u == ulp_v) return;
-      if(rank[ulp_u] == rank[ulp_v]){
-          parent[ulp_u] = ulp_v;
-      }
-      else if(rank[ulp_v] < rank[ulp_u]){
-          parent[ulp_v] = ulp_u;
-      }
-      else{
-          parent[ulp_v] = ulp_u;
-          rank[ulp_u]++;
-      }
-  }
+    public:
+    vector<int> parent, rank;
+    DisjointSet(int n){
+        rank.resize(n, 0);
+        parent.resize(n+1);
+        for(int i=0; i<n; i++){
+            parent[i] = i;
+        }
+    }
+    int findUPar(int node){
+        if(parent[node] == node) return node;
+        return parent[node] = findUPar(parent[node]);
+    }
+
+    void unionByRank(int u, int v){
+        int ult_u = findUPar(u);
+        int ult_v = findUPar(v);
+        if(ult_u == ult_v) return;
+        if(rank[ult_u] < rank[ult_v]){
+            parent[ult_u] = ult_v;
+        }else if(rank[ult_v] < rank[ult_u]){
+            parent[ult_v] = ult_u;
+        }else{
+            parent[ult_v] = ult_u;
+            rank[ult_u]++;
+        }
+    }
 };
 
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
         int n = accounts.size();
-        unordered_map<string, int> mapMailNode;
         DisjointSet ds(n);
-        for(int i = 0; i<n; i++){
+        unordered_map<string, int> mpp;
+        for(int i=0; i<n; i++){
             for(int j=1; j<accounts[i].size(); j++){
                 string mail = accounts[i][j];
-                if(mapMailNode.find(mail) == mapMailNode.end()){
-                    mapMailNode[mail] = i;
-                }
-                else{
-                    ds.unionByRank(i, mapMailNode[mail]);
+                if(mpp.find(mail) == mpp.end()){
+                    mpp[mail] = i;
+                }else{
+                    ds.unionByRank(i, mpp[mail]);
                 }
             }
         }
-        vector<vector<string>> mergedMail(n);
-        for(auto it : mapMailNode){
+
+        vector<string> mergedMail[n];
+        for(auto &it : mpp){
             string mail = it.first;
             int node = ds.findUPar(it.second);
             mergedMail[node].push_back(mail);
@@ -67,6 +64,7 @@ public:
             }
             ans.push_back(temp);
         }
+
         return ans;
     }
 };
