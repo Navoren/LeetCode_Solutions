@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navoren/LeetCode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navoren/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navoren/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -984,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navoren/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navoren/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navoren/LeetCode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -993,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navoren/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
