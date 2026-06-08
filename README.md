@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Navoren/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Navoren/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0494-target-sum) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Navoren/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -953,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1162,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/0744-network-delay-time) |
@@ -1273,6 +1278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -1280,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Combinatorics
 |  |
@@ -1355,4 +1362,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
