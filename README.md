@@ -531,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Navoren/LeetCode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Navoren/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1338,7 +1339,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Navoren/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/Navoren/LeetCode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Navoren/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Navoren/LeetCode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Navoren/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Navoren/LeetCode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
