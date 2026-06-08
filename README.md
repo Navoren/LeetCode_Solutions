@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navoren/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -726,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Navoren/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navoren/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Navoren/LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navoren/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Navoren/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
