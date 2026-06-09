@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Navoren/LeetCode_Solutions/tree/master/0726-number-of-atoms) |
@@ -800,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Navoren/LeetCode_Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
@@ -969,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1181,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
