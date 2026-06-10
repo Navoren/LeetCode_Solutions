@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Navoren/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0817-design-hashmap) |
@@ -1115,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Navoren/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Navoren/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Navoren/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Navoren/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0816-design-hashset) |
@@ -1191,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
