@@ -553,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navoren/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navoren/LeetCode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/Navoren/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -915,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1032,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navoren/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navoren/LeetCode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
