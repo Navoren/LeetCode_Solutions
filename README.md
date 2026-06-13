@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Navoren/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3863-power-grid-maintenance](https://github.com/Navoren/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navoren/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3838-weighted-word-mapping](https://github.com/Navoren/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -889,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Navoren/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
