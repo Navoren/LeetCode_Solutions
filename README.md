@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Navoren/LeetCode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Navoren/LeetCode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Navoren/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navoren/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -861,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Navoren/LeetCode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Navoren/LeetCode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
