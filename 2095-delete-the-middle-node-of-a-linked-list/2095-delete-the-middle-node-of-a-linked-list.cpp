@@ -15,11 +15,11 @@ public:
 
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = head;
-        while(fast){
-            slow = slow->next;
-            prev = slow;
+        ListNode* prev = nullptr;
+        while(fast && fast->next){
             fast = fast->next->next;
+            prev = slow;
+            slow = slow->next;
         }
         if(prev != nullptr){
             prev->next = slow->next;
