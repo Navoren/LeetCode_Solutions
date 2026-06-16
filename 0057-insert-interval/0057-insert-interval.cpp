@@ -1,34 +1,48 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        if (intervals.empty()) {
-            return {};
-        }
-        int n = intervals.size();
-        vector<vector<int>> merged;
-        sort(intervals.begin(), intervals.end());
-        int currStart = intervals[0][0];
-        int currEnd = intervals[0][1];
-        for(int i=1; i<n; i++){
-            int nextStart = intervals[i][0];
-            int nextEnd = intervals[i][1];
+    vector<vector<int>> insert(vector<vector<int>>& intervals,
+                               vector<int>& newInterval) {
 
-            if(nextStart <= currEnd){
-                currEnd = max(nextEnd, currEnd);
-            }else{
-                merged.push_back({currStart, currEnd});
-                currStart = nextStart;
-                currEnd = nextEnd;
+        vector<vector<int>> mergedIntervals;
+
+        int currentIndex = 0;
+        int intervalCount = intervals.size();
+
+        int mergedStart = newInterval[0];
+        int mergedEnd = newInterval[1];
+        
+        while (currentIndex < intervalCount) {
+            int intervalEnd = intervals[currentIndex][1];
+
+            if (intervalEnd >= mergedStart) {
+                break;
             }
+
+            mergedIntervals.push_back(intervals[currentIndex]);
+            currentIndex++;
         }
-        merged.push_back({currStart, currEnd});
-        return merged;
-    }
-    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        vector<vector<int>> merged = merge(intervals);
-        merged.push_back(newInterval);
-        sort(merged.begin(), merged.end());
-        vector<vector<int>> ans = merge(merged);
-        return ans;
+
+        while (currentIndex < intervalCount) {
+            int intervalStart = intervals[currentIndex][0];
+            int intervalEnd = intervals[currentIndex][1];
+
+            if (intervalStart > mergedEnd) {
+                break;
+            }
+
+            mergedStart = min(mergedStart, intervalStart);
+            mergedEnd = max(mergedEnd, intervalEnd);
+
+            currentIndex++;
+        }
+
+        mergedIntervals.push_back({mergedStart, mergedEnd});
+
+        while (currentIndex < intervalCount) {
+            mergedIntervals.push_back(intervals[currentIndex]);
+            currentIndex++;
+        }
+
+        return mergedIntervals;
     }
 };
