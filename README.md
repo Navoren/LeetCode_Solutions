@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Navoren/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -681,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Navoren/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
@@ -965,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Navoren/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Navoren/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1009,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
