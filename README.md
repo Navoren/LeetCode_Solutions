@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Navoren/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Navoren/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
@@ -899,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Navoren/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -933,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Navoren/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
@@ -1311,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
