@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/Navoren/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Navoren/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Navoren/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1876-map-of-highest-peak](https://github.com/Navoren/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navoren/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Navoren/LeetCode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -829,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Navoren/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Navoren/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Navoren/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Navoren/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Navoren/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navoren/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
