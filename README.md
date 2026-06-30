@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1175,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
