@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Navoren/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Navoren/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/Navoren/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1160,6 +1161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Navoren/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1269,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Navoren/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1301-number-of-paths-with-max-score](https://github.com/Navoren/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Navoren/LeetCode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Navoren/LeetCode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
