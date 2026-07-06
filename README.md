@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1275,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Navoren/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/Navoren/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Navoren/LeetCode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
