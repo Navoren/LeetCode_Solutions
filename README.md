@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Navoren/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1288-remove-covered-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/Navoren/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/Navoren/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
@@ -836,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Navoren/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navoren/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
