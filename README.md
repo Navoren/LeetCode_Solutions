@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3429-special-array-i) |
@@ -1003,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1304,6 +1306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Navoren/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Navoren/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -1403,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
 | ------- |
