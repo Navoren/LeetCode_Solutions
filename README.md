@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navoren/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -779,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navoren/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navoren/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1008,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1101,6 +1105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navoren/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1128,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navoren/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3643-zero-array-transformation-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -1412,6 +1418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1496,6 +1503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
