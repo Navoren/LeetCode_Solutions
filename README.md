@@ -989,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Navoren/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Navoren/LeetCode_Solutions/tree/master/0441-arranging-coins) |
@@ -1283,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
@@ -1537,6 +1539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Geometry
 |  |
