@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Navoren/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -1196,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
@@ -1317,6 +1319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-champagne-tower](https://github.com/Navoren/LeetCode_Solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navoren/LeetCode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
