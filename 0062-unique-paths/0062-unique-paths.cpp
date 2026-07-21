@@ -11,8 +11,8 @@ public:
         if(dp[row][col] != -1) return dp[row][col];
 
         int up = solve(row-1, col , dp);
-        int down = solve(row, col-1, dp);
+        int left = solve(row, col-1, dp);
 
-        return dp[row][col] = up + down;
+        return dp[row][col] = up + left;
     }
 };
