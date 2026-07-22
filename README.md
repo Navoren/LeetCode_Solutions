@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Navoren/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navoren/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1486,6 +1489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navoren/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
