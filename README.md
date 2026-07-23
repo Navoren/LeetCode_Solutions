@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navoren/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0952-word-subsets) |
+| [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Navoren/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Navoren/LeetCode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Navoren/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -838,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0986-interval-list-intersections](https://github.com/Navoren/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -883,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Navoren/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1356,6 +1361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
