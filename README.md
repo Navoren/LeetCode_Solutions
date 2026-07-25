@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Navoren/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1354,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Navoren/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
