@@ -1,21 +1,17 @@
 class Solution {
 public:
     int largestInteger(int n, int s) {
-        int end = pow(10, n);
+        if (s > 9 * n)
+            return -1;
 
-        for (int i = end - 1; i >= 0; i--) {
-            int sum = 0;
-            int num = i;
+        int ans = 0;
 
-            while (num > 0) {
-                sum += num % 10;
-                num /= 10;
-            }
-
-            if (sum == s)
-                return i;
+        for (int i = 0; i < n; i++) {
+            int digit = min(9, s);
+            ans = ans * 10 + digit;
+            s -= digit;
         }
 
-        return -1;
+        return ans;
     }
 };
