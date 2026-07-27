@@ -1,27 +1,25 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        stack<int> star;
-        stack<int> open;
-        for(int i = 0; i<s.length(); i++){
-            if(s[i] == '('){
-                open.push(i);
-            }
-            else if(s[i] == '*'){
-                star.push(i);
-            }
+        vector<int> bracs;
+        vector<int> stars;
+        int n = s.size();
+        for(int i=0; i<n; i++){
+            if(s[i] == '(') bracs.push_back(i);
+            else if(s[i] == '*') stars.push_back(i);
             else if(s[i] == ')'){
-                if(star.empty() && open.empty()) return false;
-                else if(!open.empty()) open.pop();
-                else star.pop();
+                if(stars.empty() && bracs.empty()) return false;
+                if(!bracs.empty()) bracs.pop_back();
+                else stars.pop_back();
             }
         }
-        while(!open.empty()){
-            if(star.empty()) return false;
-            if(open.top() > star.top()) return false;
-            open.pop();
-            star.pop();
+        while(!bracs.empty()){
+            if(stars.empty()) return false;
+            if(stars.back() < bracs.back()) return false;
+            stars.pop_back();
+            bracs.pop_back();
         }
+
         return true;
     }
 };
