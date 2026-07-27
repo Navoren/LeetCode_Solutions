@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/Navoren/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Navoren/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -965,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navoren/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
