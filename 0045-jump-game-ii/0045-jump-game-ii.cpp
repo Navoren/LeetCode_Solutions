@@ -1,25 +1,20 @@
 class Solution {
 public:
-const int INF = 1E9;
     int jump(vector<int>& nums) {
-       int n = nums.size();
-       vector<int>dp(n, -1);
-       return solve(0, nums, dp); 
-    }
-
-    int solve(int i, vector<int>&nums, vector<int>& dp){
         int n = nums.size();
-        if(i >= n-1) return 0;
-        if(dp[i] != -1) return dp[i];
-
-        int ans = INF;
-
-        for(int jump = 1; jump <= nums[i]; jump++){
-            if( i+ jump < n){
-                ans = min(ans, 1 + solve(i+ jump, nums, dp));
+        int near = 0, far = 0;
+        int ans = 0;
+        while(far < n-1){
+            int longestJump = 0;
+            for(int i = near; i<= far; i++){
+                longestJump = max(longestJump, i + nums[i]);
             }
+
+            near = far + 1;
+            far = longestJump;
+            ans++;
         }
 
-        return dp[i] = ans;
+        return ans;
     }
 };
