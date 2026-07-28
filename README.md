@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1124,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navoren/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Trie
@@ -1433,6 +1435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2266-count-number-of-texts](https://github.com/Navoren/LeetCode_Solutions/tree/master/2266-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Navoren/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1508,6 +1511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
@@ -1580,10 +1584,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navoren/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navoren/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1618,6 +1624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Navoren/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Combinatorics
