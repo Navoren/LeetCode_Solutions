@@ -1,48 +1,41 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& intervals,
-                               vector<int>& newInterval) {
-
-        vector<vector<int>> mergedIntervals;
-
-        int currentIndex = 0;
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        int currIdx = 0;
         int intervalCount = intervals.size();
 
-        int mergedStart = newInterval[0];
-        int mergedEnd = newInterval[1];
-        
-        while (currentIndex < intervalCount) {
-            int intervalEnd = intervals[currentIndex][1];
+        int mergeStart = newInterval[0];
+        int mergeEnd = newInterval[1];
 
-            if (intervalEnd >= mergedStart) {
-                break;
-            }
+        vector<vector<int>> ans;
+        while(currIdx < intervalCount){
+            int intervalEnd = intervals[currIdx][1];
+            int intervalStart = intervals[currIdx][0];
+            if(intervalEnd >= mergeStart) break;
 
-            mergedIntervals.push_back(intervals[currentIndex]);
-            currentIndex++;
+            ans.push_back({intervalStart, intervalEnd});
+            currIdx++;
         }
 
-        while (currentIndex < intervalCount) {
-            int intervalStart = intervals[currentIndex][0];
-            int intervalEnd = intervals[currentIndex][1];
+        while(currIdx < intervalCount){
+            int intervalStart = intervals[currIdx][0];
+            int intervalEnd = intervals[currIdx][1];
 
-            if (intervalStart > mergedEnd) {
-                break;
-            }
+            if (intervalStart > mergeEnd) break;
 
-            mergedStart = min(mergedStart, intervalStart);
-            mergedEnd = max(mergedEnd, intervalEnd);
+            mergeStart = min(intervalStart, mergeStart);
+            mergeEnd = max(intervalEnd, mergeEnd);
 
-            currentIndex++;
+            currIdx++;
         }
 
-        mergedIntervals.push_back({mergedStart, mergedEnd});
+        ans.push_back({mergeStart, mergeEnd});
 
-        while (currentIndex < intervalCount) {
-            mergedIntervals.push_back(intervals[currentIndex]);
-            currentIndex++;
+        while(currIdx < intervalCount){
+            ans.push_back(intervals[currIdx]);
+            currIdx++;
         }
 
-        return mergedIntervals;
+        return ans;
     }
 };
