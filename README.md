@@ -574,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navoren/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navoren/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navoren/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1097,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1194,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navoren/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navoren/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1640,6 +1644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
