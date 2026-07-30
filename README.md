@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Navoren/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Navoren/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/0056-merge-intervals) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Navoren/LeetCode_Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Navoren/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Navoren/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Navoren/LeetCode_Solutions/tree/master/0072-edit-distance) |
@@ -770,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Navoren/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Navoren/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Navoren/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Navoren/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -900,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Navoren/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
