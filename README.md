@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3863-power-grid-maintenance](https://github.com/Navoren/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Navoren/LeetCode_Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Binary Search
 |  |
 | ------- |
@@ -971,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Navoren/LeetCode_Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Greedy
 |  |
 | ------- |
