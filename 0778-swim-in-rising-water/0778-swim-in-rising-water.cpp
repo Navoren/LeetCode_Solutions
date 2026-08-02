@@ -3,49 +3,39 @@ public:
     int swimInWater(vector<vector<int>>& grid) {
         int n = grid.size();
 
-        priority_queue<
-            vector<int>,
-            vector<vector<int>>,
-            greater<vector<int>>
-        > pq;
+        vector<vector<int>> vis(n, vector<int>(n, 0));
+         priority_queue<
+            pair<int,pair<int,int>>,
+            vector<pair<int,pair<int,int>>>,
+            greater<pair<int,pair<int,int>>> 
+            > pq;
 
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
 
-        pq.push({grid[0][0], 0, 0});
-        dist[0][0] = grid[0][0];
+        pq.push({grid[0][0], {0,0}});
+        vis[0][0] = 1;
 
-        int delRow[] = {-1, 0, 1, 0};
+        int delRow[]= {-1, 0, 1, 0};
         int delCol[] = {0, 1, 0, -1};
 
-        while(!pq.empty()) {
-            auto cur = pq.top();
+        while(!pq.empty()){
+
+            int time = pq.top().first;
+            int row = pq.top().second.first;
+            int col = pq.top().second.second;
             pq.pop();
 
-            int cost = cur[0];
-            int row = cur[1];
-            int col = cur[2];
+            if(row == n-1 && col == n-1) return time;
 
-            if(row == n-1 && col == n-1)
-                return cost;
-
-            for(int i=0; i<4; i++) {
+            for(int i=0; i<4; i++){
                 int nrow = row + delRow[i];
                 int ncol = col + delCol[i];
 
-                if(nrow>=0 && ncol>=0 &&
-                   nrow<n && ncol<n) {
-
-                    int newCost =
-                        max(cost, grid[nrow][ncol]);
-
-                    if(newCost < dist[nrow][ncol]) {
-                        dist[nrow][ncol] = newCost;
-                        pq.push({newCost, nrow, ncol});
-                    }
+                if(nrow >= 0 && ncol >= 0 && nrow <n && ncol <n && !vis[nrow][ncol]){
+                    vis[nrow][ncol] = 1;
+                    pq.push({max(time, grid[nrow][ncol]), {nrow, ncol}});
                 }
             }
         }
-
         return -1;
     }
 };
