@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Navoren/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0983-minimum-cost-for-tickets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/Navoren/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Navoren/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
@@ -1456,6 +1457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
