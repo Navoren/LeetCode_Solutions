@@ -1041,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
@@ -1512,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Navoren/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -1667,6 +1669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Navoren/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -1703,6 +1706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1808,4 +1812,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Navoren/LeetCode_Solutions/tree/master/0743-network-delay-time) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
