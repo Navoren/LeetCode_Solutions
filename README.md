@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navoren/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -1584,6 +1585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Navoren/LeetCode_Solutions/tree/master/0136-single-number) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1612,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Navoren/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
