@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Navoren/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Navoren/LeetCode_Solutions/tree/master/0057-insert-interval) |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Navoren/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -1299,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Navoren/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
