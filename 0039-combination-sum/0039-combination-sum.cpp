@@ -1,33 +1,28 @@
 class Solution {
-public: 
+public:
+int n;
 vector<vector<int>> ans;
-
-void seq(vector<int>& candidates, int target, int i, int currSum, vector<int> temp){
-
-    if(currSum > target){
-        return;
-    }
-
-    if(i == candidates.size()){
-        if(currSum == target){
-            ans.push_back(temp);
-        }
-        return;
-    }
-
-    currSum+= candidates[i];
-    temp.push_back(candidates[i]);
-    seq(candidates, target, i, currSum, temp);
-    currSum-=candidates[i];
-    temp.pop_back();
-
-    seq(candidates, target, i+1, currSum, temp);
-}
-
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        n = candidates.size();
         vector<int> temp;
-        seq(candidates, target, 0, 0, temp);
+        backtrack(0, target, candidates, temp);
         return ans;
-        
+    }
+
+    void backtrack(int i, int target, vector<int>&candidates, vector<int> &temp){
+        if(target == 0){
+            ans.push_back(temp);
+            return;
+        }
+
+        if(i == n || target < 0){
+            return;
+        }
+
+        temp.push_back(candidates[i]);
+        backtrack(i, target - candidates[i], candidates, temp);
+        temp.pop_back();
+
+        backtrack(i+1, target, candidates, temp);
     }
 };
