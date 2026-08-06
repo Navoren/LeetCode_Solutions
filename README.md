@@ -1137,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1716,6 +1717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
