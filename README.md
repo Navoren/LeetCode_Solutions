@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/Navoren/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/Navoren/LeetCode_Solutions/tree/master/3396-valid-word) |
@@ -921,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navoren/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navoren/LeetCode_Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Navoren/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1041,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/Navoren/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navoren/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1506,6 +1509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Navoren/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
