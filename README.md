@@ -1834,11 +1834,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -1847,4 +1849,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
