@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -866,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/Navoren/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navoren/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1392,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navoren/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Navoren/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
