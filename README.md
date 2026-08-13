@@ -1611,6 +1611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Navoren/LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/Navoren/LeetCode_Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
