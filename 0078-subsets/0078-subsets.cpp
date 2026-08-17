@@ -1,24 +1,27 @@
 class Solution {
 public:
-int n;
 vector<vector<int>> ans;
     vector<vector<int>> subsets(vector<int>& nums) {
-        n = nums.size();
-        vector<int> temp;
-        solve(0,temp, nums);
+        int n = nums.size();
+        int totalMasks = 1 << n;
+        vector<vector<int>> dp(totalMasks);
+
+        for(int i=0; i< totalMasks; i++){
+            ans.push_back(solve(i, nums, dp));
+        }
         return ans;
     }
 
-    void solve(int i,vector<int>&temp, vector<int>&nums){
-        if(i == n){
-            ans.push_back(temp);
-            return;
-        }
+    vector<int> solve(int mask , vector<int>&nums, vector<vector<int>>& dp){
+        if(mask == 0) return {};
 
-        temp.push_back(nums[i]);
-        solve(i+1, temp, nums);
+        if(!dp[mask].empty()) return dp[mask];
 
-        temp.pop_back();
-        solve(i+1, temp, nums);
+        int bit = __builtin_ctz(mask);
+        int prevMask = mask & (mask - 1);
+
+        dp[mask] = solve(prevMask, nums, dp);
+        dp[mask].push_back(nums[bit]);
+        return dp[mask];
     }
 };
