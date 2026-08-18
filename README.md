@@ -1132,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Navoren/LeetCode_Solutions/tree/master/0441-arranging-coins) |
+| [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -1488,6 +1489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
@@ -1624,6 +1626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Navoren/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1784,6 +1787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Navoren/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Geometry
 |  |
@@ -1857,6 +1861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
@@ -1890,4 +1895,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
