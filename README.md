@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/Navoren/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Navoren/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1396-count-servers-that-communicate](https://github.com/Navoren/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navoren/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -850,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Navoren/LeetCode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Navoren/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -1031,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0890-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/Navoren/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navoren/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1631,6 +1634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Navoren/LeetCode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Navoren/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
