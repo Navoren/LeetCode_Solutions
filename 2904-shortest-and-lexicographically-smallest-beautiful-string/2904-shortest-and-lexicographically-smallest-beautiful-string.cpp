@@ -3,23 +3,23 @@ public:
     string shortestBeautifulSubstring(string s, int k) {
         int n = s.length();
         string ans = "";
+        int ones = 0;
+        int l = 0;
+        for(int r=0; r<n; r++){
+            if(s[r] == '1') ones++;
 
-        for (int l = 0; l < n; l++) {
-            int sum = 0;
+            while(ones > k){
+                ones -= s[l] - '0';
+                l++;
+            }
 
-            for (int r = l; r < n; r++) {
-                sum += s[r] - '0';
+            if(ones == k){
+                while(s[l] == '0') l++;
 
-                if (sum == k) {
-                    string curr = s.substr(l, r - l + 1);
-
-                    if (ans == "" || curr.length() < ans.length() || (curr.length() == ans.length() && curr < ans)) {
-                        ans = curr;
-                    }
-                    break;
+                string curr = s.substr(l, r-l+1);
+                if(ans == "" || curr.length() < ans.length() || (curr.length() == ans.length() && curr < ans)){
+                    ans = curr;
                 }
-
-                if (sum > k) break;
             }
         }
 
