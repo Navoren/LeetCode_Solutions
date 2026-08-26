@@ -1926,4 +1926,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Navoren/LeetCode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
