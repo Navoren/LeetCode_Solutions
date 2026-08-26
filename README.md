@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Navoren/LeetCode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Navoren/LeetCode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -938,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Navoren/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navoren/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -996,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Navoren/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Navoren/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navoren/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -1549,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navoren/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Navoren/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navoren/LeetCode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2266-count-number-of-texts](https://github.com/Navoren/LeetCode_Solutions/tree/master/2266-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1651,6 +1656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Navoren/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Navoren/LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1713,6 +1719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/Navoren/LeetCode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -1926,6 +1933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0464-can-i-win](https://github.com/Navoren/LeetCode_Solutions/tree/master/0464-can-i-win) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Navoren/LeetCode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1934,4 +1942,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
