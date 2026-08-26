@@ -2,31 +2,24 @@ class Solution {
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        int totalSum = 0;
+        int total = 0;
         for(auto it : nums){
-            totalSum += it;
+            total += it;
         }
 
-        if(totalSum % 2) return false;
-
-        int target = totalSum / 2;
-        vector<vector<int>> dp(n, vector<int>(target+1, -1));
-        return solve(0, nums, target, dp);
+        vector<vector<int>> dp(n, vector<int>(total/2 + 1, -1));
+        if(total%2 != 0) return false;
+        else return solve(0, total/2, nums, dp);
     }
 
-    bool solve(int ind, vector<int>& arr, int sum, vector<vector<int>>&dp){
-        if(sum == 0) return true;
-        if(ind == arr.size()) return false;
-        
-        if(dp[ind][sum] != -1) return dp[ind][sum];
-        
-        bool notPick = solve(ind+1, arr, sum, dp);
-        bool pick = false;
-        if(arr[ind] <= sum){
-            pick = solve(ind+1, arr, sum - arr[ind], dp);
-        }
-        
-        return dp[ind][sum] = pick || notPick;
-        
+    bool solve(int i, int target, vector<int>&nums, vector<vector<int>>&dp){
+        if(target == 0) return true;
+        if(i == nums.size() || target < 0) return false;
+        if(dp[i][target] != -1) return dp[i][target];
+
+        bool notTake = solve(i+1, target, nums, dp);
+        bool take = solve(i+1, target - nums[i], nums, dp);
+
+        return dp[i][target] = take || notTake;
     }
 };
