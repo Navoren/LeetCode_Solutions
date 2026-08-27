@@ -1155,6 +1155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Navoren/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1012-numbers-with-repeated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Navoren/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Navoren/LeetCode_Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -1530,6 +1531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1012-numbers-with-repeated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Navoren/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
