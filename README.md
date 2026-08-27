@@ -1150,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Navoren/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Navoren/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -1214,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Navoren/LeetCode_Solutions/tree/master/0044-wildcard-matching) |
+| [0233-number-of-digit-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1513,6 +1515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Navoren/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Navoren/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Navoren/LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0322-coin-change) |
