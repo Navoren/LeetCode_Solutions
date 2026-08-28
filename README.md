@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Navoren/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Navoren/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Navoren/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Navoren/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Navoren/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -1051,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Navoren/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Navoren/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0890-lemonade-change) |
@@ -1539,6 +1541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Navoren/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Navoren/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Navoren/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/0788-rotated-digits) |
