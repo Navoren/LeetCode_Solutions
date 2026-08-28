@@ -1,24 +1,26 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int nextBuy = 0;
-        int nextSell = 0;
+        int n = prices.size();
+        vector<vector<int>> dp(n, vector<int>(2 , -1));
+        return solve(0,1, prices, dp);
+    }
 
-        for (int i = prices.size() - 1; i >= 0; i--) {
-            int currBuy = max(
-                -prices[i] + nextSell,
-                nextBuy                 
-            );
+    int solve(int i, int buy, vector<int>& prices, vector<vector<int>> &dp){
+        if(i == prices.size()) return 0;
 
-            int currSell = max(
-                prices[i] + nextBuy,    
-                nextSell                
-            );
+        if(dp[i][buy] != -1) return dp[i][buy];
+        int profit=0;
 
-            nextBuy = currBuy;
-            nextSell = currSell;
+        if(buy){
+            int take = -prices[i] + solve(i+1, 0, prices, dp);
+            int notTake = solve(i+1, 1, prices, dp);
+            profit = max(take, notTake);
+        }else{
+            int sell = prices[i] + solve(i+1, 1, prices, dp);
+            int notSell = solve(i+1, 0, prices, dp);
+            profit = max(sell, notSell);
         }
-
-        return nextBuy;
+        return dp[i][buy] = profit;
     }
 };
