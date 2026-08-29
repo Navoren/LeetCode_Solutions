@@ -1102,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Navoren/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Navoren/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Navoren/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Navoren/LeetCode_Solutions/tree/master/0460-lfu-cache) |
