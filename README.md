@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navoren/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1021,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Navoren/LeetCode_Solutions/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navoren/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1872,6 +1874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Navoren/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Navoren/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navoren/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
