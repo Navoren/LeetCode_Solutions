@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/Navoren/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navoren/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Navoren/LeetCode_Solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Navoren/LeetCode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/Navoren/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -1065,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Navoren/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navoren/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Navoren/LeetCode_Solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Navoren/LeetCode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navoren/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Navoren/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -1329,6 +1331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Navoren/LeetCode_Solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1732-find-the-highest-altitude](https://github.com/Navoren/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navoren/LeetCode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1445,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Navoren/LeetCode_Solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navoren/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
