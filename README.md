@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navoren/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1425-constrained-subsequence-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navoren/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navoren/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1254,6 +1255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navoren/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1457,6 +1459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1425-constrained-subsequence-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Navoren/LeetCode_Solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
@@ -1589,6 +1592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Navoren/LeetCode_Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Navoren/LeetCode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -1652,6 +1656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Navoren/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Navoren/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1425-constrained-subsequence-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navoren/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navoren/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Navoren/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -1681,6 +1686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navoren/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2868-continuous-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
