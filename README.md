@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navoren/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Navoren/LeetCode_Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Binary Search
 |  |
@@ -1362,6 +1363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
 | ------- |
