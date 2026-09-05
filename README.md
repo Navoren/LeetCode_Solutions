@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1983-maximum-population-year](https://github.com/Navoren/LeetCode_Solutions/tree/master/1983-maximum-population-year) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-maximum-matrix-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Navoren/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1712,6 +1713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Navoren/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navoren/LeetCode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navoren/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Navoren/LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navoren/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1748,6 +1750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Navoren/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1980-find-unique-binary-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Interactive
@@ -1841,6 +1844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Navoren/LeetCode_Solutions/tree/master/1291-sequential-digits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Navoren/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
