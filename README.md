@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/0812-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [1048-longest-string-chain](https://github.com/Navoren/LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1579,6 +1580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Navoren/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Navoren/LeetCode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
