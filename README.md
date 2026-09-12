@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navoren/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navoren/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1048,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navoren/LeetCode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navoren/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Navoren/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1626,6 +1629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navoren/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navoren/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navoren/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Navoren/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Navoren/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
