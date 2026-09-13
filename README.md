@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Navoren/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0827-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Navoren/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Navoren/LeetCode_Solutions/tree/master/0860-lemonade-change) |
@@ -1430,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Navoren/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-sliding-puzzle](https://github.com/Navoren/LeetCode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/Navoren/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/Navoren/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/Navoren/LeetCode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/Navoren/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
