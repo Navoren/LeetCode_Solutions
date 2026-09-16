@@ -1209,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Navoren/LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navoren/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1642-water-bottles](https://github.com/Navoren/LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/Navoren/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/Navoren/LeetCode_Solutions/tree/master/1927-sum-game) |
@@ -1358,6 +1359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Navoren/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navoren/LeetCode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navoren/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Navoren/LeetCode_Solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1732-find-the-highest-altitude](https://github.com/Navoren/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navoren/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1620,6 +1622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/Navoren/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Navoren/LeetCode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Navoren/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navoren/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Navoren/LeetCode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Navoren/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1852,6 +1855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Navoren/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Navoren/LeetCode_Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navoren/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Navoren/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Navoren/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navoren/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
